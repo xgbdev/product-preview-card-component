@@ -11,7 +11,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - Github Project URL: [https://github.com/xgbdev/product-preview-card-component](https://github.com/xgbdev/product-preview-card-component)
-- Web deployed on Vercel: [URL](https://your-live-site-url.com)
+- Web deployed on Vercel: [https://product-preview-card-component-bice-beta.vercel.app/](https://product-preview-card-component-bice-beta.vercel.app/)
 
 ## My process
 
